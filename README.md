@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-4Cs05hMlttgk2jZELpGfkXsDLOLD6qyQiT9yGo16Ur54gaRs3gUwKRU&s=10" width="320px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-4Cs05hMlttgk2jZELpGfkXsDLOLD6qyQiT9yGo16Ur54gaRs3gUwKRU&s=10" width="300px">
 
 ## About Me:
 
