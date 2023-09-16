@@ -1,4 +1,8 @@
-# About Me:
+# Hi there 👋
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-4Cs05hMlttgk2jZELpGfkXsDLOLD6qyQiT9yGo16Ur54gaRs3gUwKRU&s=10" width="350px">
+
+## About Me:
 
 - 👋 Hi, I’m @JuliusSinaga
 - 👀 I’m interested in Programming
