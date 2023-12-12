@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @JuliusSinaga
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning [IT DEL](https://www.del.ac.id/) 
+- 🌱 I’m currently learning [Institute Technology of DEL](https://www.del.ac.id/) 
 - 📫 How to reach me : juliussinaga712@gmail.com
 
 ## Education:
