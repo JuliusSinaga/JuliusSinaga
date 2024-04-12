@@ -16,4 +16,5 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="C Language" width="30 px" src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program.png" style="padding-right:10px;" />
 <img align="left" alt="VisualStudioCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
