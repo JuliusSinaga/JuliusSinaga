@@ -1,3 +1,5 @@
+# Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Become+to+Star)](https://git.io/typing-svg)
 
 [![An image of @juliussinaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juliussinaga)](https://holopin.io/@juliussinaga)
