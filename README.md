@@ -16,7 +16,7 @@
 #### 1. [Institut Tekonologi Del](https://www.del.ac.id/) | [Information System](https://www.del.ac.id/?page_id=3534) | Laguboti `2023`
 #### 2. [SMAN 1 Pangururan](https://infosekolah.net/cari/sekolah/SMAN-1-PANGURURAN-Kec.-Pangururan-Prov.-Sumatera-Utara/f6283652e7cff259426ada551fb85899ea32906e/) | MIPA | Pangururan '2020-2023'
 
-<div>
+### Social Media
 <div align="left"> 
   <a href="mailto:juliussinaga712@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -24,7 +24,15 @@
   <a href=https://discordapp.com/users/716192652508397579 target="_blank">
      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target=_blank /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+  <a>
+    <a href=https://www.linkedin.com/in/julius-sinaga target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a>
+    <a href=https://www.instagram.com/julius.kaisar30 target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
 </div>
 
 
