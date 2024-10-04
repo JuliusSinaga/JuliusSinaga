@@ -4,6 +4,8 @@
 
 [![An image of @juliussinaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/juliussinaga)](https://holopin.io/@juliussinaga)
 
+<img src="https://www.codewars.com/users/Ulkaboos/badges/small">
+
 ## About Me:
 
 - 👋 Hi, I’m @JuliusSinaga
